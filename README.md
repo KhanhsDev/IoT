@@ -51,7 +51,7 @@ Vào https://ai2.appinventor.mit.edu/
 Import file thiết kế blocks hoặc làm theo demo ảnh Blocks.png
 Kết nối API Firebase và control thiết bị
 📥 Clone project từ GitHub
-
+https://github.com/KhanhsDev/IoT.git
 
 
 
